@@ -6,7 +6,8 @@
 [React] primeito componente - V
 [React] componente usando props.children - V
 [React] componente usando props - V
-[React] componente com eventos - 
+[React] componente com eventos - V
+
 [React] componente com estado - 
 [React] componente entre componentes [direta] - V
 [React] componente entre componentes [indireta] - V
