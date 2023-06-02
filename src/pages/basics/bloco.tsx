@@ -1,4 +1,4 @@
-import BlocosComponentes from "@/components/blocosComponentes";
+import BlocosComponentes from "@/components/basics/blocosComponentes";
 
 export default function Blocos () {
     return (

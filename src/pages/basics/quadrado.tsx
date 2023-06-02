@@ -1,4 +1,4 @@
-import QuadradoComponente from "@/components/QuadradoComponente"
+import QuadradoComponente from "@/components/basics/QuadradoComponente"
 
 export default function Quadrado (){
     return (

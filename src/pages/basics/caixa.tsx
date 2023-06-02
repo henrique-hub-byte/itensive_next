@@ -1,4 +1,4 @@
-import CaixaComponente from "@/components/CaixaComponente";
+import CaixaComponente from "@/components/basics/CaixaComponente";
 
 export default function Caixa (){
     return (

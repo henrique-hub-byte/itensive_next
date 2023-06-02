@@ -14,7 +14,7 @@ export default function ImagemAnimaisAleatoria(){
             bg-amber-200 px-4 py-3 rounded-md    
             `} onClick={() => {
                 setPesquisa(valor)
-                console.log(url)
+                console.log(url) 
             }}>
             {valor}
             </button>

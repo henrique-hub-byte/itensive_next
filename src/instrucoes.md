@@ -8,6 +8,9 @@
 [React] componente usando props - V
 [React] componente com eventos - V
 
-[React] componente com estado - 
+[React] componente com estado - V
 [React] componente entre componentes [direta] - V
 [React] componente entre componentes [indireta] - V
+
+[React] rederização condicional
+[React] rederização de lista 

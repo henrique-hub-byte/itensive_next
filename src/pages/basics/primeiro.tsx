@@ -1,4 +1,4 @@
-import PrimeiroComponente from "@/components/PrimeiroComponente";
+import PrimeiroComponente from "@/components/basics/PrimeiroComponente";
 
 export default function Primeiro() {
     return (

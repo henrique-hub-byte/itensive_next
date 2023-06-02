@@ -1,4 +1,4 @@
-import Evento from "@/components/EventoComponente"
+import Evento from "@/components/basics/EventoComponente"
 
 export default function Eventos(){
     return (

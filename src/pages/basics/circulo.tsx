@@ -1,4 +1,4 @@
-import CirculoComponente from "@/components/CirculoComponente";
+import CirculoComponente from "@/components/basics/CirculoComponente";
 
 export default function Circulo(){
     return (
